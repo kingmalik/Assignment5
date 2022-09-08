@@ -1,0 +1,47 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "car",
+            "image": "/images/car.jpeg"
+        },
+        {
+            "id": "2",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "book",
+            "image": "/images/books.jpeg"
+        },
+        {
+            "id": "3",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "food",
+            "image": "images/food.jpeg"
+        },
+        {
+            "id": "4",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "gym",
+            "image": "images/gym.jpeg"
+        },
+        {
+            "id": "5",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "seahawks",
+            "image": "images/seahawks.jpeg"
+        },
+        {
+            "id": "6",
+            "headline": "Lorem ipsum dolor sit amet. ",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nisi consectetur nisi, eget consectetur nisi nisi velit.",
+            "topic": "space",
+            "image": "images/space.jpeg"
+        }
+        
+    ]
+}
